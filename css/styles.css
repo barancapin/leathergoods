@@ -1,0 +1,64 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: roboto, sans-serif;
+}
+h1{
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #00ADB5;
+}
+
+div{
+  background-color: #222831;
+  padding: 2%;
+  padding-bottom: 0;
+}
+
+p{
+  color: #EEEEEE;
+}
+
+h2{
+  color: #EEEEEE;
+}
+
+h3{
+  color: #EEEEEE;
+}
+
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  position: relative;
+  left: 20%;
+}
+.mountain{
+  opacity: 0.5
+}
+
+.header{
+  font-family: 'Sacramento', cursive;
+  font-size: 25pt;
+  padding: 0;
+  position: relative;
+  bottom: 10%;
+  color: #EEEEEE;
+  display: inline;
+  padding-left: 2%;
+  padding-right: 2%;
+
+}
+
+.profil-foto{
+  border-radius: 100%
+}
+
+.skills-1{
+  border-radius: 100%;
+}
+.tail{
+  color: #00ADB5;
+}
